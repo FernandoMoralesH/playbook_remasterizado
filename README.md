@@ -1,4 +1,5 @@
-# Launch X, Etapa Backend
-Creacion de un nuevo Playbook para Launch X, etapa Backend; se reestrucutura.
-<img width="1258" alt="image" src="https://user-images.githubusercontent.com/17634377/159150076-08acc144-733e-40f6-8b79-149fd7c8476e.png">
-Imagen Realizado por <ref: @carlogilmar>
+# Launch X Node JS Playbook 🚀 de @Fernando Morales H.
+
+<img width="1247" alt="image" src="https://user-images.githubusercontent.com/17634377/159151704-8949639b-ae5f-405a-a8b8-8d97f3f150cd.png">
+
+Repositorio para guardar las prácticas de Launch X.
