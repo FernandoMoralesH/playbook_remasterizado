@@ -1,0 +1,23 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoMoralesH/my_launchx_app.git"
+  },
+  "author": "Fernando Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoMoralesH/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/FernandoMoralesH/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
