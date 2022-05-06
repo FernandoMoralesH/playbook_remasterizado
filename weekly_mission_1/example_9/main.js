@@ -1,18 +1,21 @@
 const Pokemon = require('./pokemon')
 
 const pikachu = new Pokemon("pikachu")
+
 const bulbasaur = new Pokemon("bulbasaur")
+
 const squirtle = new Pokemon("squirtle")
+
 const charmander = new Pokemon("charmander")
 
-pikachu.sayHello()
+pikachu.sayHello('te saluda!!!')
 pikachu.sayMessage("Heey!")
 
-bulbasaur.sayHello()
+bulbasaur.sayHello('te saluda!!!')
 bulbasaur.sayMessage("Heey!")
 
-charmander.sayHello()
+charmander.sayHello('te saluda!!!')
 charmander.sayMessage("Heey!")
 
-squirtle.sayHello()
+squirtle.sayHello('te saluda!!!')
 squirtle.sayMessage("Heey!")

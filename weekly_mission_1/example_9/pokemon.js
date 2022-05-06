@@ -1,7 +1,14 @@
 class Pokemon {
-    export function sayHello (message) {
-        console.log(message)
-      }
-      {
-          
-      }
+  constructor(name) {
+    this.name = name;
+  }
+
+sayHello (message) {
+  console.log(`Mi pokemon ${this.name} ${message}`)
+}
+
+sayMessage (message) {
+  console.log(`Mi pokemon ${this.name} dice: ${message}`)
+}}
+
+module.exports = Pokemon
