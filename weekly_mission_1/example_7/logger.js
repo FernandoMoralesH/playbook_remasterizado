@@ -18,7 +18,7 @@ export function log (message) {
   // exports a constant
   export const DEFAULT_LEVEL = 'info'
   
-  // exports an object
+  // exports an object*/
   export const LEVELS = {
     error: 0,
     debug: 1,
