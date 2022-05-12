@@ -1,6 +1,4 @@
 import MyPokemon from './pokemon.js'
 
 const pikachu = new MyPokemon('Pikachu')
-pikachu.sayHello()
-
-//Mi codigo
+pikachu.sayHello('te saluda!!!')
