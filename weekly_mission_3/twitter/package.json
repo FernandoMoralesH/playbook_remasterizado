@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Ejercicio de Back End en Launch X",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoMoralesH/twitter.git"
+  },
+  "author": "Fernando Morales Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoMoralesH/twitter/issues"
+  },
+  "homepage": "https://github.com/FernandoMoralesH/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
